@@ -29,9 +29,12 @@ than a sudden-win condition.
 
 <img width="885" height="455" alt="image" src="https://github.com/user-attachments/assets/241e86f3-d3ff-419c-bb73-a4df720f411f" />
 
+
 <img width="885" height="490" alt="image" src="https://github.com/user-attachments/assets/f76c7619-29f2-45d6-97b6-5323b188fef8" />
 
+
 <img width="886" height="383" alt="image" src="https://github.com/user-attachments/assets/0cb78c43-1ade-484e-b549-d5b3a5dc3317" />
+
 
 <img width="975" height="530" alt="image" src="https://github.com/user-attachments/assets/7b2b9549-5115-4252-a700-f2c0efb19709" />
 
