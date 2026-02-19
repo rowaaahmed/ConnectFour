@@ -54,8 +54,10 @@ than a sudden-win condition.
 | 9     | 830789       | 57.573           | 18816         | 6.724            | null          | null             |
 | 10    | 5777689      | 165.951          | 20274         | 7.946            | 36791         | 0.550            |
 
+# Contributors
 
+Rowaa Ahmed
 
+Seif Heggy
 
-
-
+Zaid Hatem
